@@ -1,0 +1,185 @@
+.pagee-1{
+  width: 100%;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://images.pexels.com/photos/2908984/pexels-photo-2908984.jpeg?cs=srgb&dl=pexels-technobulka-2908984.jpg&fm=jpg);
+  background-size: 100%;
+  text-align: center;
+  margin: 80px auto;
+  color: white;
+  padding: 50px;
+}
+
+.pagee-1 h2{
+  font-family: oxanium;
+  width:60%;
+  font-size: 3rem;
+  margin: 50px auto;
+  letter-spacing: 2px;
+}
+
+.pagee-1 p{
+  font-family: gruppo;
+  font-size: 2.5rem;
+}
+
+.pagee-1 button{
+  width: 30%;
+  border: 2px solid white;
+  border-left: none;
+  color: white;
+  margin: 50px;
+  transition: 0.3s;
+  &:hover{ 
+    background-color: white;
+    color: black;
+    background-image: none;
+  }
+}
+
+.pagee-1 .information-container{
+  width: 80%;
+  margin: 60px auto;
+  text-align: left;
+}
+
+.pagee-1 .information-container .text-box{
+  padding: 20px;
+
+}
+.pagee-1 .information-container .text-box h2{
+  font-size: 2rem;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.pagee-1 .information-container .text-box p{
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.pagee-1 hr{
+  width: 80%;
+  margin: 50px auto;
+}
+
+
+.pagee-2{
+  display: flex;
+  width: 70%;
+  margin: 50px auto;
+
+}
+
+.pagee-2 .left-container h2{
+  width: 50%;
+  font-family: oxanium;
+  font-size: 2rem;
+}
+
+.pagee-2 .left-container p{
+  font-family: gruppo;
+  margin: 30px 0;
+  font-size: 1.7rem;
+  line-height: 1.5;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.pagee-2 img{
+  width: 50%;
+}
+
+.menu-container{
+  background-image: url(https://wallpapers.com/images/hd/pure-black-background-y8wp2r83b15xxdi6.jpg);
+  background-size: cover;
+  text-align: left;
+  color: white;
+  padding: 100px 50px;
+}
+
+.menu-container h2{
+  font-family: oxanium;
+  font-size: 2.5rem;
+}
+
+.menu-container hr{
+  margin: 20px 0;
+}
+
+.menu-container img{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 2px solid black;
+}
+
+.link-container a{
+  text-decoration: none;
+  color: white;
+  font-family: gruppo;
+  font-size: 1.7rem; 
+  margin-right: 20px;
+  font-weight: bold;
+  transition: 0.4s;
+  &:hover{
+    color: rgb(177, 177, 44);
+  }
+}
+
+.menu-container .coffees-container,
+.menu-container .sweets-container {
+  display: flex;
+  width: 70%;
+  flex-wrap: wrap;
+  margin: 50px auto;
+  justify-content: space-between;
+
+}
+
+.menu-container .coffees-container h3,
+.menu-container .sweets-container h3{
+  font-family: oxanium;
+  font-size: 1.7rem;
+  width: 100%;
+  margin: 15px 0;
+}
+
+.menu-container .coffees-container .coffee-container, 
+.menu-container .sweets-container .sweet-container{
+  width: 48%;
+  display: flex;
+  border: 1px solid rgb(177, 177, 44);
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 10px;
+  transition: 0.3s;
+  &:hover{
+    background-color: rgb(177, 177, 44);
+    color: black;
+  }
+
+}
+
+.menu-container .coffees-container .coffee-container .text-container, 
+.menu-container .sweets-container .sweet-container .text-container{
+  padding: 0 20px;  
+
+}
+
+.menu-container .coffees-container .coffee-container .text-container h4, 
+.menu-container .sweets-container .sweet-container .text-container h4{
+  font-family: oxanium;
+  font-size: 1.5rem;
+
+}
+
+.menu-container .coffees-container .coffee-container .text-container p, 
+.menu-container .sweets-container .sweet-container .text-container p{
+  font-family: gruppo;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 10px 0;
+  
+
+}
+
+

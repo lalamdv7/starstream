@@ -1,0 +1,129 @@
+.pageee-1{
+  display: flex;
+  width: 70%;
+  margin: 150px auto;
+}
+
+.pageee-1 .text-box{
+  width: 45%;
+  padding-right: 60px;
+}
+
+.pageee-1 iframe{
+  width: 55%;
+  height: 500px;
+  border: 5px solid white;
+  box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.122); 
+  border-radius: 15px;
+}
+
+.pageee-1 .text-box h2{
+  font-family: oxanium;
+  font-size: 3.3rem;
+}
+
+.pageee-1 .text-box p{
+  font-family: gruppo;
+  font-size: 1.5rem;
+}
+
+.form-container{
+  width: 40%;
+  margin: 100px auto;
+  font-family: gruppo;
+  box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.122); 
+  padding: 50px;
+  
+}
+
+.form-container h2{
+  font-size: 2rem;
+}
+
+.form-container form{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 1.5rem;
+
+}
+
+.form-container input{
+  margin: 13px 0;
+  width: 100%;
+  padding: 15px;
+  font-family: gruppo;
+  font-size: 1.2rem;
+  font-weight: bold;
+ 
+}
+
+.form-container textarea{
+  margin-top: 13px;
+  font-family: gruppo;
+  padding: 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.form-container button{
+  width: 50%;
+  margin-top: 40px;
+
+  text-align: left;
+}
+
+.faq-container {
+  width: 80%;
+  margin: 100px auto;
+  padding: 50px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.122); 
+}
+
+.faq-container h2 {
+  text-align: center;
+  font-family: oxanium;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.faq-item {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #000000;
+  padding: 10px 0;
+}
+
+.faq-item summary {
+  font-family: gruppo;
+  font-size: 1.7rem;
+  color: #000000;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  outline: none;
+  font-weight: bold;
+  transition: 0.3s;
+  
+}
+
+
+
+.faq-item summary::after {
+  content: '+';
+  font-weight: bold;
+  padding: 10px;
+  font-size: 30px;
+  transition: transform 0.3s ease;
+}
+
+
+
+.faq-item p {
+  margin: 10px 0;
+  color: #555;
+  font-family: gruppo;
+  font-size: 1.5rem;
+}

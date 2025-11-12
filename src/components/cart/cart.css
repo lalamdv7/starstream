@@ -1,0 +1,98 @@
+
+.cart-container {
+  margin-top: 150px;
+  font-family: gruppo;
+  width: 80%;margin: 150px auto;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.cart-container h2 {
+  font-size: 24px;
+  color: #3c4a61;
+}
+
+.cart-container h2{
+  font-size: 2.5rem;
+  width: 100%;
+
+}
+
+.cart-container hr{
+  width: 100%;
+  border: 2px solid rgb(194, 194, 194);
+}
+
+.cart-container hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin:60px 0;
+}
+
+.cart-table {
+  width: 70%; /* Takes up most of the width */
+  margin-bottom: 20px;
+  border-collapse: collapse;
+  float: left; /* Align table to the left */
+}
+
+.cart-table th {
+  text-align: left;
+  padding: 10px;
+  background-color: #f8f8f8;
+  color: #3c4a61;
+  border-bottom: 1px solid #ddd;
+  font-size: 25px;
+}
+
+.cart-table td {
+  padding: 10px;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;
+  font-size: 20px;
+}
+
+.cart-table img {
+  width: 60px;
+  height: auto;
+  border-radius: 5px;
+}
+
+.cart-table input[type="number"] {
+  width: 50px;
+  text-align: center;
+}
+
+.cart-total-table {
+  width: 28%; 
+  margin-left: 2%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.cart-total-table table{
+  width: 100%;
+}
+
+.cart-total-table th {
+  text-align: left;
+  font-size: 25px;
+  margin-bottom: 10px;
+  color: #3c4a61;height: auto;
+}
+
+.cart-total-table td {
+  padding: 30px 0;
+  font-size: 25px;
+  color: #3c4a61;
+  border-bottom: 1px solid #ddd;
+}
+
+
+.cart-container button{
+  width: 100% !important;
+  font-size: 1.2rem !important;
+}

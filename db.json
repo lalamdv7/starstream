@@ -1,0 +1,223 @@
+[
+  {
+    "img_url": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg", 
+    "name": "To Kill a Mockingbird", 
+    "author": "Harper Lee", 
+    "price": 10.99, 
+    "genre": "classics-novels" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/61NAx5pd6XL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "1984", 
+    "author": "George Orwell", 
+    "price": 9.99, 
+    "genre": "classics-novels" },
+
+  {
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg", 
+    "name": "The Great Gatsby", 
+    "author": "F. Scott Fitzgerald", 
+    "price": 8.99, 
+    "genre": "classics-novels" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/8125BDk3l9L._AC_UF1000,1000_QL80_.jpg", 
+    "name": "The Catcher in the Rye", 
+    "author": "J.D. Salinger", 
+    "price": 7.99, 
+    "genre": "classics-novels" },
+
+  {
+    "img_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605824499i/55953683.jpg", 
+    "name": "Moby Dick", 
+    "author": "Herman Melville", 
+    "price": 12.99, 
+    "genre": "classics-novels" },
+
+  {
+    "img_url": "https://cdn.kobo.com/book-images/08ba5a67-f48d-420e-be8e-6de7a73b7d85/1200/1200/False/pride-prejudice-13.jpg", 
+    "name": "Pride and Prejudice", 
+    "author": "Jane Austen", 
+    "price": 6.99, 
+    "genre": "classics-novels" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/913CifLtXeL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "The Da Vinci Code", 
+    "author": "Dan Brown", 
+    "price": 11.99, 
+    "genre": "mystery" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/71+khXHbe5L._AC_UF894,1000_QL80_.jpg", 
+    "name": "Gone Girl", 
+    "author": "Gillian Flynn", 
+    "price": 10.99, 
+    "genre": "mystery" },
+
+  {
+    "img_url": "https://rekhtabooks.com/cdn/shop/products/9789355201225_5537f524-3f40-44a9-8436-3ffc5749a32a.jpg?v=1680027292", 
+    "name": "Sherlock Holmes: The Complete Novels", 
+    "author": "Arthur Conan Doyle", 
+    "price": 14.99, 
+    "genre": "mystery" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/81N+sjNpGML._AC_UF894,1000_QL80_.jpg", 
+    "name": "Big Little Lies", 
+    "author": "Liane Moriarty", 
+    "price": 10.99, 
+    "genre": "mystery" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/M/MV5BZTg4MGViYTMtYTFkMC00YzVlLWExZDItOTM4NTUwMjc2NTE2XkEyXkFqcGc@._V1_.jpg", 
+    "name": "The Girl on the Train", 
+    "author": "Paula Hawkins", 
+    "price": 9.99, 
+    "genre": "mystery" },
+
+  {
+    "img_url": "https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale,dpr_1.5/jackets/9781408855652.jpg", 
+    "name": "Harry Potter and the Sorcerer's Stone", 
+    "author": "J.K. Rowling", 
+    "price": 9.99, 
+    "genre": "children" },
+
+  {
+    "img_url": "https://cdn11.bigcommerce.com/s-igquupw3/images/stencil/1280x1280/products/197566/37627635/9780142410370__49545.1726227874.jpg?c=2", 
+    "name": "Matilda", 
+    "author": "Roald Dahl", 
+    "price": 6.99, 
+    "genre": "children" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/91NOcoxRkUL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "Charlotte's Web", 
+    "author": "E.B. White", 
+    "price": 5.99, 
+    "genre": "children" },
+
+
+
+
+
+
+
+
+    
+  {
+    "img_url": "https://m.media-amazon.com/images/I/91WN6a6F3RL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "Percy Jackson and the Olympians: The Lightning Thief", 
+    "author": "Rick Riordan", 
+    "price": 7.99, 
+    "genre": "children" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/A1wx+e0rJ2L._AC_UF1000,1000_QL80_.jpg", 
+    "name": "Where the Wild Things Are", 
+    "author": "Maurice Sendak", 
+    "price": 8.99, 
+    "genre": "children" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/710C5x4MzwL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "Cosmos", 
+    "author": "Carl Sagan", 
+    "price": 15.99, 
+    "genre": "science" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/81pQPZAFWbL._AC_UF894,1000_QL80_.jpg", 
+    "name": "A Brief History of Time", 
+    "author": "Stephen Hawking", 
+    "price": 12.99, 
+    "genre": "science" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/61CXvkfdXlL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "The Selfish Gene", 
+    "author": "Richard Dawkins", 
+    "price": 13.99, 
+    "genre": "science" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/61avWD4e+7L._AC_UF1000,1000_QL80_.jpg", 
+    "name": "The Elegant Universe", 
+    "author": "Brian Greene", 
+    "price": 14.99, 
+    "genre": "science" },
+
+  {
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREeSl8HqQVv17AKLLGrRNbocIBCt7ySE7-XPAsL9PK6hmiViQuRZ0JT51_xkvj8d4v38&usqp=CAU", 
+    "name": "Sapiens", 
+    "author": "Yuval Noah Harari", 
+    "price": 16.99, 
+    "genre": "science" },
+
+  {
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbCYXdMnyKJUXQnqkkwIRyYFkU2u2Un1npIg&s", 
+    "name": "The 7 Habits of Highly Effective People", 
+    "author": "Stephen R. Covey", 
+    "price": 10.99, 
+    "genre": "self improvement" },
+
+  {
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa_BMh8s10yz7nzWLfO6Ny0C2lgMyTzqID7w&s", 
+    "name": "How to Win Friends and Influence People", 
+    "author": "Dale Carnegie", 
+    "price": 9.99, 
+    "genre": "self improvement" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/81ANaVZk5LL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "Atomic Habits", 
+    "author": "James Clear", 
+    "price": 11.99, 
+    "genre": "self improvement" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/71-zqlETKcL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "The Power of Now", 
+    "author": "Eckhart Tolle", 
+    "price": 12.99, 
+    "genre": "self improvement" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/61fdrEuPJwL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "Thinking, Fast and Slow", 
+    "author": "Daniel Kahneman", 
+    "price": 14.99, 
+    "genre": "self improvement" },
+
+  {
+    "img_url": "https://m.media-amazon.com/images/I/51D6Dzs8rtL._AC_UF1000,1000_QL80_.jpg", 
+    "name": "Educational Psychology", 
+    "author": "John Santrock", 
+    "price": 25.99, 
+    "genre": "educational" },
+
+    
+  {"img_url": "", "name": "The Art of Public Speaking", "author": "Stephen E. Lucas", "price": 20.99, "genre": "educational" },
+  {"img_url": "", "name": "Mathematics: Its Content, Methods, and Meaning", "author": "A. D. Aleksandrov", "price": 22.99, "genre": "educational" },
+  {"img_url": "", "name": "Physics for Scientists and Engineers", "author": "Raymond A. Serway", "price": 30.99, "genre": "educational" },
+  {"img_url": "", "name": "Biology", "author": "Neil A. Campbell", "price": 27.99, "genre": "educational" },
+  {"img_url": "", "name": "Brave New World", "author": "Aldous Huxley", "price": 10.99, "genre": "classics-novels" },
+  {"img_url": "", "name": "The Road", "author": "Cormac McCarthy", "price": 11.99, "genre": "fiction" },
+  {"img_url": "", "name": "The Alchemist", "author": "Paulo Coelho", "price": 9.99, "genre": "fiction" },
+  {"img_url": "", "name": "Life of Pi", "author": "Yann Martel", "price": 12.99, "genre": "fiction" },
+  {"img_url": "", "name": "A Thousand Splendid Suns", "author": "Khaled Hosseini", "price": 11.99, "genre": "fiction" },
+  {"img_url": "", "name": "The Shining", "author": "Stephen King", "price": 10.99, "genre": "mystery" },
+  {"img_url": "", "name": "The Hobbit", "author": "J.R.R. Tolkien", "price": 8.99, "genre": "classics-novels" },
+  {"img_url": "", "name": "Frankenstein", "author": "Mary Shelley", "price": 7.99, "genre": "classics-novels" },
+  {"img_url": "", "name": "The Book Thief", "author": "Markus Zusak", "price": 9.99, "genre": "fiction" },
+  {"img_url": "", "name": "Goodnight Moon", "author": "Margaret Wise Brown", "price": 4.99, "genre": "children" },
+  {"img_url": "", "name": "The Very Hungry Caterpillar", "author": "Eric Carle", "price": 5.99, "genre": "children" },
+  {"img_url": "", "name": "Silent Spring", "author": "Rachel Carson", "price": 12.99, "genre": "science" },
+  {"img_url": "", "name": "Educated", "author": "Tara Westover", "price": 13.99, "genre": "self improvement" },
+  {"img_url": "", "name": "The Psychology of Money", "author": "Morgan Housel", "price": 10.99, "genre": "self improvement" },
+  {"img_url": "", "name": "Man's Search for Meaning", "author": "Viktor E. Frankl", "price": 9.99, "genre": "self improvement" },
+  {"img_url": "", "name": "Essentialism", "author": "Greg McKeown", "price": 11.99, "genre": "self improvement" },
+  {"img_url": "", "name": "The Lean Startup", "author": "Eric Ries", "price": 14.99, "genre": "self improvement" },
+  {"img_url": "", "name": "Artificial Intelligence: A Guide for Thinking Humans", "author": "Melanie Mitchell", "price": 12.99, "genre": "science" },
+  {"img_url": "", "name": "The Grapes of Wrath", "author": "John Steinbeck", "price": 11.99, "genre": "classics-novels" }
+]

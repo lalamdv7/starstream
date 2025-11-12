@@ -1,0 +1,117 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: white;
+}
+
+@font-face {
+  font-family: gruppo;
+  src: url(./assets/fonts/Gruppo/Gruppo-Regular.ttf);
+}
+
+@font-face {
+  font-family: milonga;
+  src: url(./assets/fonts/Milonga/Milonga-Regular.ttf);
+}
+
+@font-face {
+  font-family: oxanium;
+  src: url(./assets/fonts/Oxanium/Oxanium-VariableFont_wght.ttf);
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-1 {
+  width: calc(((100%/12)*1) - 0.666%);
+}
+
+.col-2 {
+  width: calc(((100%/12)*2) - 0.666%);
+}
+
+.col-3 {
+  width: calc(((100%/12)*3) );
+}
+
+.col-4 {
+  width: calc(((100%/12)*4) - 0.666%);
+}
+
+.col-5 {
+  width: calc(((100%/12)*5) - 0.666%);
+}
+
+.col-6 {
+  width: calc(((100%/12)*6));
+}
+
+.col-7 {
+  width: calc(((100%/12)*7) - 0.666%);
+}
+
+.col-8 {
+  width: calc(((100%/12)*8) - 0.666%);
+}
+
+.col-9 {
+  width: calc(((100%/12)*9) - 0.666%);
+}
+
+.col-10 {
+  width: calc(((100%/12)*10) - 0.666%);
+}
+
+.col-11 {
+  width: calc(((100%/12)*11) - 0.666%);
+}
+
+.col-12 {
+  width: 100%;
+}
+
+
+@media only screen and (max-width:1000px) {
+  .col-6 {
+      width: 100%;
+  }
+}
+
+@media only screen and (max-width:540px) {
+  .col-6,
+  .col-4 {
+      width: 100%;
+  }
+}
+
+.btn{
+  background-color: transparent;
+  border: 2px solid black;
+  border-left: none;
+  width: 50%;
+  padding: 10px;
+  font-weight: bold;
+  font-family: gruppo;
+  font-size: 1.5rem;
+  margin-top: 20px;
+  transition: 0.5s;
+  cursor: pointer;
+  &:hover{
+    background-image: url(https://cosmosatyourdoorstep.com/wp-content/uploads/2018/02/star-field-3.jpg);
+    background-size: 100%;
+    color: white;
+  }
+  
+}
